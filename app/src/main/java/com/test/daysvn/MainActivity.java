@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         init();
     }
-
+    int t=34;
     private void init() {
     }
 }
